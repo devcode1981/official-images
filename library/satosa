@@ -1,16 +1,16 @@
-# This file is generated via https://github.com/IdentityPython/satosa-docker/blob/f39d2b97aee3a36753e40a486f531f421d328d43/generate-stackbrew-library.sh
+# This file is generated via https://github.com/IdentityPython/satosa-docker/blob/9c8b9a9f2fd6d095944637f658f2d2dccf68259b/generate-stackbrew-library.sh
 
 Maintainers: Matthew X. Economou <economoum@niaid.nih.gov> (@niheconomoum)
 GitRepo: https://github.com/IdentityPython/satosa-docker.git
 GitFetch: refs/heads/main
 
-Tags: 8.1.1-bullseye, 8.1-bullseye, 8-bullseye, bullseye
-SharedTags: 8.1.1, 8.1, 8, latest
-Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: f62013ad3b8a785b37b3acc2c0b0ead94aae8b95
-Directory: 8.1/bullseye
+Tags: 8.4.0-bookworm, 8.4-bookworm, 8-bookworm, bookworm
+SharedTags: 8.4.0, 8.4, 8, latest
+Architectures: amd64, arm64v8
+GitCommit: 69038a84d541717d66420f3ad8ec7c9da22c91b4
+Directory: 8.4/bookworm
 
-Tags: 8.1.1-alpine3.16, 8.1-alpine3.16, 8-alpine3.16, alpine3.16, 8.1.1-alpine, 8.1-alpine, 8-alpine, alpine
-Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le
-GitCommit: f62013ad3b8a785b37b3acc2c0b0ead94aae8b95
-Directory: 8.1/alpine3.16
+Tags: 8.4.0-alpine3.19, 8.4-alpine3.19, 8-alpine3.19, alpine3.19, 8.4.0-alpine, 8.4-alpine, 8-alpine, alpine
+Architectures: amd64, arm32v7, arm64v8, i386, ppc64le
+GitCommit: 74a847396f1190ec26679fc3bf09ffcc42d2e999
+Directory: 8.4/alpine3.19
